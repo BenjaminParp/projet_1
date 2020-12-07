@@ -1,0 +1,137 @@
+*{
+    font-family: roboto;
+}
+
+body{
+    background-color: #f8f8f8;
+}
+
+div{
+    display: inline-block;
+}
+
+
+
+#logo{
+    filter: grayscale(100%);
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    border-radius: 50%;
+    border: 10px solid white;
+    width: 280px;
+    height: 280px;
+    margin-top: 30px;
+}
+
+#gris{
+    background-color: #4a4a4c;
+    width: 43%;
+    height: 55em;
+}
+
+i{
+    color: #11a9f3;
+    
+}
+
+#logiciels{
+    margin-left: 27px;
+    color: white
+}
+
+#logiciels > i{
+    float: ;
+    color: white;
+    
+}
+
+
+.language{
+    background-color: #4a4a4c;
+    color: white;
+    width: 480px;
+    padding-left: 27px;
+}
+
+.contact{
+    margin-left: 30px;
+    color: white; 
+}
+
+#h2_contact{
+    margin-left: 0px;
+}
+
+.logo_contact > i{
+    padding-top: 10px; 
+}
+
+
+#gris>h2{
+    margin-left: 30px;
+    color: white;
+}
+
+#h2_skills{
+    color: white;
+    margin-left: 27px;
+}
+
+.logiciels{
+    margin-left: 30px;
+    color: white;
+}
+
+#blanc{
+    position: absolute;
+    padding-left: 30px;
+    padding-top: 110px;
+}
+
+#blanc >h1{
+    font-size: 40px;
+    margin-top: -30px;
+}
+
+span{
+    color: #11a9f3;
+}
+
+#blanc >h3{
+    margin-top: -30px;
+}
+
+#Experiences{
+    padding-top: 65px;
+}
+
+#Experiences > h4{
+    color: #11a9f3;
+    font-size: 19px;
+}
+
+#Experiences > p{
+    font-size: 15px;
+    margin-top: -27px;
+}
+
+#Educations > h4{
+    color: #11a9f3;
+    font-size: 19px;
+}
+
+#Educations > p{
+    font-size: 15px;
+    margin-top: -28px;
+}
+
+#Reference > h4{
+    color: #11a9f3;
+    font-size: 19px;
+}
+
+#Reference > p{
+    font-size: 15px;
+    margin-top: -1px;
+}
